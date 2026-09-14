@@ -1,50 +1,55 @@
-👋 Hi, I'm a CSE Student!
+# 👋 Hi, I'm a CSE Student!
 
-🎓 Bachelor's Student in Computer Science & Engineering (CSE)
-💻 Beginner programmer focused on C Programming
-🧠 Practicing problem-solving & programming fundamentals
-🔧 Learning Git & GitHub
+🎓 Bachelor's Student in **Computer Science & Engineering (CSE)**  
+💻 Beginner programmer focused on **C Programming**  
+🧠 Practicing **Problem Solving & Programming Fundamentals**  
+🔧 Learning **Git & GitHub**
 
-🚀 About Me
-🌱 Currently learning C Programming
-🧠 Practicing problem-solving
-📚 Interested in DSA, Software Development & Open Source
-🎯 Goal: Become a skilled Software Engineer
-💻 Skills & Technologies
+## 🚀 About Me
 
-Currently Learning:
-C Git GitHub Problem Solving DSA
+- 🌱 Currently learning C Programming
+- 🧠 Practicing problem-solving
+- 📚 Interested in DSA, Software Development & Open Source
+- 🎯 Goal: Become a skilled Software Engineer
 
-Familiar With:
-Variables Conditions Loops Functions Arrays
-Pointers Strings Structures File Handling
+## 💻 Skills & Technologies
 
-📂 My Repositories
+**Currently Learning:**  
+`C` `Git` `GitHub` `Problem Solving` `DSA`
 
-My repositories document my programming journey, including:
+**Familiar With:**  
+`Variables` `Conditions` `Loops` `Functions` `Arrays`  
+`Pointers` `Strings` `Structures` `File Handling`
 
-📝 C Programming Practice
-🔢 Programming Problems
-🧩 Problem-Solving Exercises
-📚 University Coursework
-🚀 Beginner Projects
-📈 My Learning Journey
+## 📂 My Repositories
 
-Learn → Practice → Build → Improve
+- 📝 C Programming Practice
+- 🔢 Programming Problems
+- 🧩 Problem-Solving Exercises
+- 📚 University Coursework
+- 🚀 Beginner Projects
+
+## 📈 My Learning Journey
+
+**Learn → Practice → Build → Improve**
 
 I'm continuously practicing, building projects, and documenting my progress on GitHub.
 
-🎯 Current Goals
- Master C Programming
- Learn Data Structures & Algorithms
- Improve Problem-Solving Skills
- Learn C++
- Build Projects
- Contribute to Open Source
-📫 Connect With Me
+## 🎯 Current Goals
+
+- [ ] Master C Programming
+- [ ] Learn Data Structures & Algorithms
+- [ ] Improve Problem-Solving Skills
+- [ ] Learn C++
+- [ ] Build Projects
+- [ ] Contribute to Open Source
+
+## 📫 Connect With Me
 
 Feel free to explore my repositories and follow my learning journey.
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
-Every expert was once a beginner.
+> *Every expert was once a beginner.*
+
+
