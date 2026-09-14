@@ -1,63 +1,50 @@
 👋 Hi, I'm a CSE Student!
 
-🎓 I'm currently pursuing my Bachelor's degree in Computer Science & Engineering (CSE).
-
-💻 I'm a beginner programmer currently focusing on C programming and building a strong foundation in computer science.
+🎓 Bachelor's Student in Computer Science & Engineering (CSE)
+💻 Beginner programmer focused on C Programming
+🧠 Practicing problem-solving & programming fundamentals
+🔧 Learning Git & GitHub
 
 🚀 About Me
-🎓 CSE Undergraduate Student
 🌱 Currently learning C Programming
-🧠 Practicing problem-solving and programming fundamentals
-🔧 Learning how to use Git & GitHub
-📚 Interested in Data Structures, Algorithms, Software Development, and Open Source
-🎯 Goal: Become a skilled software developer
+🧠 Practicing problem-solving
+📚 Interested in DSA, Software Development & Open Source
+🎯 Goal: Become a skilled Software Engineer
 💻 Skills & Technologies
-Currently Learning
-C
-Git
-GitHub
-Problem Solving
-Basic Data Structures & Algorithms
-Familiar With
-Variables & Data Types
-Conditional Statements
-Loops
-Functions
-Arrays
-Pointers
-Strings
-Structures
-File Handling
+
+Currently Learning:
+C Git GitHub Problem Solving DSA
+
+Familiar With:
+Variables Conditions Loops Functions Arrays
+Pointers Strings Structures File Handling
+
 📂 My Repositories
 
-I'm using GitHub to document my learning journey.
+My repositories document my programming journey, including:
 
-You'll find repositories containing:
-
-📝 C programming practice
-🔢 Basic programming problems
-🧩 Problem-solving exercises
-📚 University coursework
-🚀 Small beginner projects
+📝 C Programming Practice
+🔢 Programming Problems
+🧩 Problem-Solving Exercises
+📚 University Coursework
+🚀 Beginner Projects
 📈 My Learning Journey
 
 Learn → Practice → Build → Improve
 
-I'm continuously practicing programming and uploading my progress to GitHub.
-This profile is a record of my journey from a beginner programmer to a professional software developer.
+I'm continuously practicing, building projects, and documenting my progress on GitHub.
 
 🎯 Current Goals
- Become confident in C programming
+ Master C Programming
  Learn Data Structures & Algorithms
- Improve problem-solving skills
+ Improve Problem-Solving Skills
  Learn C++
- Build beginner-friendly projects
+ Build Projects
  Contribute to Open Source
- Become a better software engineer
 📫 Connect With Me
 
 Feel free to explore my repositories and follow my learning journey.
 
-Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
 
 Every expert was once a beginner.
