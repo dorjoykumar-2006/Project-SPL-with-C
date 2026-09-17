@@ -2,7 +2,7 @@
 
 /*booleans have one of two values like :  
     true/yes/on = 1
-    false = 0
+    false/no/off = 0
 */
 
 #include<stdio.h>
