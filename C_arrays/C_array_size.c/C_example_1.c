@@ -13,5 +13,7 @@ int main()
 /*note : it prints 20 instead of 5 why?
 because sizeof operator returns the size of a type in "bytes"*/
 
-// integer type = 4 bytes             
+// integer type = 4 bytes     
+
+//how to get the number of elements than? see example 2 !! 
    
