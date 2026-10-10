@@ -1,4 +1,4 @@
-// Example 3 : Concenate(connecting) two strings using strcat() function
+// Example 3 : Concenat(connecting) two strings using strcat() function
 
 #include<stdio.h>
 #include<string.h>
