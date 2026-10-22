@@ -1,15 +1,16 @@
-// EXAMPLE 2 : find the total number elements in a array 
+// EXAMPLE 2 ; get the number of elements
 
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    int myNum[]= {1 ,2 ,3 ,3 ,4 ,4};
-    int length = sizeof(myNum)/sizeof(myNum[0]);
+    int arr_1[] = {10, 20, 30, 40};
+    double arr_2[] = {11.1, 22.2, 33.3, 44.4 , 55.5 , 66.6};
 
-    printf("Total elements in the array is : %d",length);
+    int length_1 = sizeof(arr_1) / sizeof(arr_1[0]);
+    int length_2 = sizeof(arr_2) / sizeof(arr_2[0]);
+
+    printf("total number if elements in array one :%d\n", length_1);
+    printf("total number if elements in array two :%d", length_2);
 
     return 0;
-
 }
-
-// sizeof(myNum[o]) : returns the size 0f element that is located in index 0 of array in bytes 
