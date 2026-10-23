@@ -11,8 +11,8 @@ int main()
     int size = sizeof(string);     //calculates the size of the string including the null terminator
     int size_1 = sizeof(string_1); //calculates the size of the second string
 
-    printf("The length of the string is : %d\n", length);      //prints the length of the string=26
-    printf("The size of the string is : %d\n", size);          //prints the size of the string=27
+    printf("The length of the string is : %d\n", length);      //prints the length of the string=11
+    printf("The size of the string is : %d\n", size);          //prints the size of the string=12
     printf("The size of the second string is : %d\n", size_1); //prints the size of the second string=50
 
     return 0;
