@@ -37,7 +37,7 @@ int main()
     
     }
 
-    printf("\nEnter name or ID of the employee for enquiry: ");
+    printf("\nEnter Name or ID of the employee for enquiry: ");
 
     char search_name[50]; 
     scanf("%s",search_name);
